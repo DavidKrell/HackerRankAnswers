@@ -1,5 +1,5 @@
 /*
-  www.hackerrank.com/challenges/revising-the-select-query/problem 
+   www.hackerrank.com/challenges/revising-the-select-query/problem 
 */
 
 SELECT *

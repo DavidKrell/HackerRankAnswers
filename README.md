@@ -8,9 +8,9 @@ My  answers to HackerRank problems. Check out my HackerRank profile <a href="htt
 - Java
 - 10 Days of Statistics
 
-<h2>Completed[^1]</h2>
+<h2>Completed</h2>
 
-- 30 Days of Code
+- 30 Days of Code[^1]
 - 10 Days of JS
 
 [^1]:I still have to upload my answers to these challenges.

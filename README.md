@@ -11,6 +11,6 @@ My  answers to HackerRank problems. Check out my HackerRank profile <a href="htt
 <h2>Completed</h2>
 
 - 30 Days of Code[^1]
-- 10 Days of JS
+- 10 Days of JS[^1]
 
 [^1]:I still have to upload my answers to these challenges.

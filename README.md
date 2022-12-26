@@ -1,5 +1,7 @@
 # HackerRankAnswers
-My  answers to HackerRank problems. Check out my HackerRank profile <a href="https://www.hackerrank.com/david_krell?hr_r=1">here</a>!. The solutions are guaranteed to work on MySQL. Sometimes I provide, in my opinion, cleaner solutions which are not working on MySQL but instead on PostgreSQL.
+My  answers to HackerRank problems. Check out my HackerRank profile <a href="https://www.hackerrank.com/david_krell?hr_r=1">here</a>!. 
+
+The solutions are guaranteed to work on MySQL. Sometimes I provide, in my opinion, cleaner solutions which are not working on MySQL but instead on PostgreSQL.
 
 <h2>Currently Working On</h2>
 
